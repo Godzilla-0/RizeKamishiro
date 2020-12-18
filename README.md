@@ -1,5 +1,5 @@
-# Julia - A Telegram Bot Project
-
+# Rize Kamishiro - A Telegram Bot Project
+[Rize](https://images7.alphacoders.com/974/974254.png)
 > ⭐️ Thanks to everyone who has starred the project, it means a lot !
 
 ##### Its a request to everyone who is using this free software and maintaining their own forks/imports from this repository to strictly comply with the LICENCE associated with this repository !<br /><br />If you are using an import your repository should contain a link to the [main repository](https://github.com/MissJuliaRobot/MissJuliaRobot) in the README.
@@ -14,9 +14,9 @@
 
 **Blazingly fast Telegram Group Management Bot based on [Telethon](https://github.com/LonamiWebs/Telethon) coupled with [Sqlalchemy](https://github.com/sqlalchemy/sqlalchemy) and [MongoDB](https://github.com/mongodb/mongo)**
 
-Can be found on telegram as [Julia](https://t.me/MissJuliaRobot)
+Can be found on telegram as [Rize Kamishiro](https://t.me/Rize_Probot)
 
-Deploy Julia to Heroku:
+Deploy Rize to Heroku:
 
 <p align="left"><a href="https://heroku.com/deploy?template=https://github.com/MissJuliaRobot/MissJuliaRobot/tree/master"> <img src="https://www.herokucdn.com/deploy/button.svg" alt="Deploy to Heroku" /></a></p>
 
