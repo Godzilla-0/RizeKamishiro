@@ -1,0 +1,5 @@
+version = 1
+
+[[transformers]]
+name = "autopep8"
+enabled = true
