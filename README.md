@@ -1,4 +1,4 @@
-[Rize](https://images7.alphacoders.com/974/974254.png)
+[Rize](https://telegra.ph/file/14ad440a49767b018da7f.png)
 
 # Rize Kamishiro - A Telegram Bot Project
 
