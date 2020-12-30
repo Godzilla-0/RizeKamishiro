@@ -1,10 +1,9 @@
 {
-  "name": "MissJuliaRobot",
+  "name": "Rize_Probot",
   "description": "A Telegram Group Management Bot",
-  "logo": "https://telegra.ph/file/517f97b74ad036b2ef3c9.jpg",
-  "keywords": ["telethon", "sqlalchemy", "mongodb"],
-  "repository": "https://github.com/MissJuliaRobot/MissJuliaRobot.git",
-  "success_url": "http://missjuliarobot.unaux.com",
+  "logo": "https://telegra.ph/file/4c35be1a1eab079a682cb.png",
+  "keywords": ["telethon", "sqlalchemy", "redis"],
+  "repository": "https://github.com/Godzilla-0/RizeKamishiro.git",
   "env": {
     "API_KEY": {
       "description": "Get this value from my.telegram.org! Please do not steal",
@@ -112,7 +111,7 @@
       "plan": "heroku-postgresql"
     },
     {
-      "plan": "ormongo:5-mmap"
+      "plan": "rediscloud"
     }
   ],
   "buildpacks": [
